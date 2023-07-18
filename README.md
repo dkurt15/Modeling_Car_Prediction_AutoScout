@@ -5,7 +5,7 @@ In this project I had the opportunity to apply many algorithms commonly used for
 Also, I applied various processes such as pre-processing, *train-test spilit* and *cross validation* that I used in algorithm modeling and prediction processes 
 in Python with *scikit-learn*.
 
-Auto Scout data was scraped from the online car trading company(https://www.autoscout24.com) in 2019.
+Auto Scout data was scraped from the online car trading company (https://www.autoscout24.com) in 2019.
 
 
 ## Technologies and Libraries
